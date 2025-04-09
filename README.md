@@ -60,5 +60,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Lab<a href="https://github.com/Nanaopoku25/Detection-Lab">Detection Lab</a>
+- <a href="https://github.com/Nanaopoku25/Detection-Lab">Detection Lab</a>
 - SOC Automation Project

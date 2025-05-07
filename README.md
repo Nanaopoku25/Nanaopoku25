@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Nanaopoku25/Detection-Lab">Detection Lab</a>|
+| Splunk-Log-Analysis-Projects      | <a href="https://github.com/Nanaopoku25/Splunk-Projects/blob/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Splunk SOAR Phantom Lab        |<a href="https://github.com/Nanaopoku25/Splunk-SOAR-Phantom-home-lab"> Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|

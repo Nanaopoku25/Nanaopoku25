@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href="https://github.com/Nanaopoku25/Splunk-Projects/blob/main/README.md"> Splunk-Log-Analysis-Projects </a>|  A comprehensive lab for mastering SIEM AND LOG analysis | 
 |<a href= "https://github.com/Nanaopoku25/Active-Directory-monitoring-Projects"> Active-Directory-Monitoring-Project </a>| Active Directory Monitoring Projects repository! using various tools |
 |<a href="https://github.com/Nanaopoku25/Splunk-SOAR-Phantom-home-lab">  Splunk SOAR Phantom Lab </a> | Setting up Splunk SOAR Phantom |
-| Incident Response Planning and Execution      | SOC Automation Lab|
+|<a href="https://github.com/Nanaopoku25/Windows-Forensics-Projects/tree/main"> Windows Forensics Projects for Beginners </a> | This repository contains hands-on projects designed to learn and practice Windows forensics and other essential cybersecurity skills.|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 

@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href= "https://github.com/Nanaopoku25/Active-Directory-monitoring-Projects"> Active-Directory-Monitoring-Project </a>| Active Directory Monitoring Projects repository! using various tools |
 |<a href="https://github.com/Nanaopoku25/Splunk-SOAR-Phantom-home-lab">  Splunk SOAR Phantom Lab </a> | Setting up Splunk SOAR Phantom |
 |<a href="https://github.com/Nanaopoku25/Windows-Forensics-Projects/tree/main"> Windows Forensics Projects for Beginners </a> | This repository contains hands-on projects designed to learn and practice Windows forensics and other essential cybersecurity skills.|
-| <a href="https://github.com/Nanaopoku25/splunk-zero-to-hero"> splunk-zero-to-hero</a>| |
+| <a href="https://github.com/Nanaopoku25/splunk-zero-to-hero"> splunk-zero-to-hero</a>| This project consist of all the basic and advance techniques for you to get started with splunk |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
